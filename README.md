@@ -15,9 +15,9 @@ Open the project directory.
 
     cd tic-tac-toe
 
-    Open the index.html file in your web browser to start the game.
+Open the index.html file in your web browser to start the game.
 
-    Follow the on-screen instructions to play the game.
+Follow the on-screen instructions to play the game.
 
 Rules
 
