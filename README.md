@@ -1,17 +1,17 @@
-﻿Tic-Tac-Toe Game
+﻿﻿Tic-Tac-Toe Game
 
 Welcome to the Tic-Tac-Toe game implemented in JavaScript! This version of the classic game introduces a strategic twist: player 'X' must place their move in the center to win.
 How to Play
 
-    Clone the repository to your local machine.
+Clone the repository to your local machine.
 
     bash
 
-git clone https://github.com/your-username/tic-tac-toe.git
+    git clone https://github.com/tigrangrigorean/Tic-Tac-Toe_JS_EUA.git
 
 Open the project directory.
 
-bash
+    bash
 
     cd tic-tac-toe
 
